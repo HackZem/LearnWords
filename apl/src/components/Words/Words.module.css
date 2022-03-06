@@ -1,0 +1,17 @@
+
+.settingWords {
+    display: grid;
+    grid-template-columns: 2fr 10fr ;
+}
+
+.arrayWords {
+    padding: 10px;
+}
+
+.saveWords {
+    padding: 10px;
+}
+
+.word a {
+    text-decoration: none;
+}
